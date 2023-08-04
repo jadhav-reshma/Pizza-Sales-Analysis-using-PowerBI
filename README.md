@@ -1,9 +1,9 @@
 # **An End-to-End Pizza-Sales-Analysis-using-PowerBI**
 In this project we are assuming the role as a  BI consultant to use the data for improving operations and derive valuable insights using SQL and PowerBI
 
-### __Problem Statement is as follows:__
+### Part 1:  __Problem Statement__
 
-#### __KPI's REQUIREMENT__
++ __KPI's REQUIREMENT__
 
 We need to analyze key indicators for our pizza sales data to gain insights into our business
 performance. Specifically, we want to calculate the following metrics:
@@ -20,7 +20,8 @@ total revenue by the total number of orders.
 5. __Average Pizzas Per Order:__ The average number of pizzas sold per order, calculated by
 dividing the total number of pizzas sold by the total number of orders.
 
-#### __CHARTS REQUIREMENT__
+
++ __CHARTS REQUIREMENT__
 
 We have visualize various aspects of our pizza sales data to gain insights and understand key
 trends. We have identified the following requirements for creating charts:
@@ -60,7 +61,7 @@ Orders. This chart will help us identify the most popular pizza options.
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity,
 Total Orders. This chart will enable us fo identify underperforming or less popular pizza options.
 
-### Insights generated are as follows:
+### Part 2: Insights generated
 
 1. July is the highest revenue month: The data shows that the month of July had the highest pizza revenue. This could be attributed to various factors, such as summer vacations, holidays, or special promotions during that time.
 
@@ -69,6 +70,16 @@ Total Orders. This chart will enable us fo identify underperforming or less popu
 3. Classic and Supreme pizzas are popular: The report reveals that customers tend to order Classic and Supreme pizzas more frequently than other pizza categories. This could be due to the popularity of these flavors, their familiarity, or effective marketing.
 
 4. Large pizzas are preferred for value: large pizzas are the most ordered pizza size, comprising over 45% of all pizza orders. This suggests that customers find larger pizzas to offer better value for money, making them a popular choice
+
+### Part 3: Final Dahboard
+
+
+  1.  ![Dashboard](https://github.com/jadhav-reshma/Pizza-Sales-Analysis-using-PowerBI/assets/135222599/2d06f962-34bc-4dca-86fc-e477d26ff25c)
+
+  
+  3.  ![Dashboard2-Best_worst Sellers](https://github.com/jadhav-reshma/Pizza-Sales-Analysis-using-PowerBI/assets/135222599/014736d7-c63d-435f-8592-b74fed4733ef)
+
+
 
 
 
